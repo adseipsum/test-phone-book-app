@@ -11,7 +11,7 @@ $(document).ready(function() {
             label: "Phone Number:",
             name: "phone_number"
         }, {
-            label: "Notes:",
+            label: "Additional Notes:",
             name: "notes"
         }
         ]
